@@ -1,9 +1,9 @@
-function App() {
-  
-  return (
+import { type FC} from "react";
+
+export const App:FC = function App() {
+  return(
     <>
     </>
   )
 }
 
-export default App
